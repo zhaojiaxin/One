@@ -6,4 +6,5 @@
 	sadfasdf dasf 
 	sdafasfasd
 	asdfasdf;:
+	文淼是好人
 ?>
